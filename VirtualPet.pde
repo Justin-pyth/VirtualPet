@@ -1,9 +1,9 @@
 void setup(){
   size(800,400);
-  int x = 200;
-  int y = 200;
 }
 void draw(){
+  int x = 200;
+  int y = 200;
   // PENGUIN
   //Body
   fill(0, 0, 0);
